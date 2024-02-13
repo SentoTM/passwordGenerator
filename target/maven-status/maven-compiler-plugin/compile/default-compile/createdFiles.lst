@@ -1,0 +1,5 @@
+com\sentotm\passwordgenerator\Launcher.class
+com\sentotm\passwordgenerator\App.class
+com\sentotm\passwordgenerator\GeneradorContrasenya.class
+com\sentotm\passwordgenerator\PrimaryController.class
+module-info.class
